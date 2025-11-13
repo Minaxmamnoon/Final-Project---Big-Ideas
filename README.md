@@ -1,2 +1,53 @@
-# Final-Project---Big-Ideas
-Final Project
+# Best Neighborhood in Pittsburgh – Final Group Report
+# Team Lucid – Best Neighborhood in Pittsburgh
+
+## Team Members
+- **Jermi John Vilanilathu** – jej163@pitt.edu  
+- **Zach Patterson** – [email]  
+- **Mina Heerey** – [email]  
+
+## Canvas Group
+Final Project Group 26 Team name: Lucid
+
+---
+
+## Project Overview
+This project uses multiple datasets from the Western Pennsylvania Regional Data Center (WPRDC) to determine **The Best Neighborhood In Pittsburgh**.
+
+Each team member analyzed one submetric:
+- **Road Bumps** – fewer speed humps (Mina)
+- **Traffic Flow** – lower traffic counts (Zach)
+- **Safest to Drive** – fewer traffic citations (Jermi)
+
+Each person created an individual notebook.  
+This repository also includes a **combined final notebook** with our group conclusion.
+
+---
+
+## Datasets Used
+k
+### **1. Non-Traffic Citations**  
+Used by: **Jermi**  
+Link: https://data.wprdc.org/dataset/non-traffic-citations  
+Description: Traffic-related citations issued in Pittsburgh.
+
+### **2. Speed Humps**  
+Used by: **Mina**  
+Link: [insert link]  
+Description: 
+
+### **3. Traffic Counts**  
+Used by: **Zach**  
+Link: [insert link]  
+Description: 
+
+---
+
+## Notebooks in This Repository
+- `Final_Project_Jermi_Notebook.ipynb` — safest neighborhood using citation counts  
+- 
+
+---
+
+## One-Sentence Summary
+This repository combines multiple Pittsburgh datasets to determine the safest, smoothest, and least congested neighborhood in the city.
