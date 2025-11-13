@@ -3,7 +3,7 @@
 
 ## Team Members
 - **Jermi John Vilanilathu** – jej163@pitt.edu  
-- **Zach Patterson** – [email]  
+- **Zach Grzegorczyk** – zjg19@pitt.edu  
 - **Mina Heerey** – [email]  
 
 ## Canvas Group
@@ -38,8 +38,8 @@ Description:
 
 ### **3. Traffic Counts**  
 Used by: **Zach**  
-Link: [insert link]  
-Description: 
+Link: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh  
+Description: Car counts from neighborhoods in the City of Pittsburgh
 
 ---
 
