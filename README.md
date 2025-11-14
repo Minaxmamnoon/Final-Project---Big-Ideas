@@ -3,8 +3,8 @@
 
 ## Team Members
 - **Jermi John Vilanilathu** – jej163@pitt.edu  
-- **Zach Patterson** – [email]  
-- **Mina Heerey** – [email]  
+- **Zach Grzegorczyk** – [email]  
+- **Mina** – [email]  
 
 ## Canvas Group
 Final Project Group 26 Team name: Lucid
@@ -44,5 +44,5 @@ Description:
 
 ---
 
-## One-Sentence Summary
+## Summary
 This repository combines multiple Pittsburgh datasets to determine the safest, smoothest, and least congested neighborhood in the city.
