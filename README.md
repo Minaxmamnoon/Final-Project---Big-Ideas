@@ -25,7 +25,8 @@ This repository also includes a **combined final notebook** with our group concl
 ---
 
 ## Datasets Used
-k
+
+
 ### **1. Non-Traffic Citations**  
 Used by: **Jermi**  
 Link: https://data.wprdc.org/dataset/non-traffic-citations  
@@ -40,12 +41,6 @@ Description:
 Used by: **Zach**  
 Link: [insert link]  
 Description: 
-
----
-
-## Notebooks in This Repository
-- `Final_Project_Jermi_Notebook.ipynb` — safest neighborhood using citation counts  
-- 
 
 ---
 
