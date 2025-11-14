@@ -3,8 +3,11 @@
 
 ## Team Members
 - **Jermi John Vilanilathu** – jej163@pitt.edu  
-- **Zach Grzegorczyk** – [email]  
+<<<<<<< HEAD
+- **Zach Grzegorczyk** – zjg19@pitt.edu  
 - **Mina** – [email]  
+=======
+
 
 ## Canvas Group
 Final Project Group 26 Team name: Lucid
@@ -26,7 +29,6 @@ This repository also includes a **combined final notebook** with our group concl
 
 ## Datasets Used
 
-
 ### **1. Non-Traffic Citations**  
 Used by: **Jermi**  
 Link: https://data.wprdc.org/dataset/non-traffic-citations  
@@ -39,8 +41,8 @@ Description:
 
 ### **3. Traffic Counts**  
 Used by: **Zach**  
-Link: [insert link]  
-Description: 
+Link: https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh  
+Description: Car counts from neighborhoods in the City of Pittsburgh
 
 ---
 
