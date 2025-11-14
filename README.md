@@ -3,7 +3,6 @@
 
 ## Team Members
 - **Jermi John Vilanilathu** – jej163@pitt.edu  
-<<<<<<< HEAD
 - **Zach Grzegorczyk** – zjg19@pitt.edu  
 - **Mina** – [email]  
 =======
