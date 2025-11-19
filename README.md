@@ -4,7 +4,7 @@
 ## Team Members
 - **Jermi John Vilanilathu** – jej163@pitt.edu  
 - **Zach Grzegorczyk** – zjg19@pitt.edu  
-- **Mina** – [email]  
+- **Mina** – mim394@pitt.edu  
 =======
 
 
@@ -35,8 +35,8 @@ Description: Traffic-related citations issued in Pittsburgh.
 
 ### **2. Speed Humps**  
 Used by: **Mina**  
-Link: [insert link]  
-Description: 
+Link: https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
+Description: Speed humps installed by the City of Pittsburgh to slow down traffic.
 
 ### **3. Traffic Counts**  
 Used by: **Zach**  
