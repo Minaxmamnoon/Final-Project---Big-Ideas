@@ -36,7 +36,6 @@ Description: Traffic-related citations issued in Pittsburgh.
 ### **2. Speed Humps**  
 Used by: **Mina**  
 Link: https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps
-
 Description: Speed humps installed by the City of Pittsburgh to slow down traffic.
 
 ### **3. Traffic Counts**  
